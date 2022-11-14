@@ -5,6 +5,9 @@ Software Engineer | Web Developer
 
 As a person trying to step into the tech industry, I aim to grow, learn, and build with the new technologies provided. I have been studying computer science for 4 years through university and am currently taking coding boot camp to consolidate core programming fundamentals and learning new technologies. Always striving for optimization and creativity.
 
+![typing-anime](https://user-images.githubusercontent.com/73298064/201585350-e03f4513-4ae3-41d7-8ac7-38104aa281dd.gif)
+
+
 * 🌍  I'm based in Boston
 * ✉️  You can contact me at [kevin.kd.dang@gmail.com](mailto:kevin.kd.dang@gmail.com)
 * 🚀  I'm currently working on [Live Chat Application](http://github.com/kdang0/Kn0tDissch0rd)
