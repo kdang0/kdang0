@@ -1,4 +1,5 @@
-<h1 align="center">Hi, name is Kevin!</h1> !(https://cdn3.emoji.gg/emojis/blobwave.png)
+<h1 align="center">Hi, name is Kevin!</h1> ![6391_ablobwave](https://user-images.githubusercontent.com/73298064/201584551-346a27ab-9701-4f15-9212-7a40b1a760df.gif)
+
 
 Software Engineer | Web Developer
 ---------------------------------
