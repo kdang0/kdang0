@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hi,+my+name+is+kevin!/?center=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hi,+my+name+is+kevin!&center=true)](https://git.io/typing-svg)
 
 Software Engineer | Web Developer
 ---------------------------------
