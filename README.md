@@ -1,4 +1,4 @@
-<h1 align="center">Hi, name is Kevin ✌️</h1> 
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hi, my name is kevin!)](https://git.io/typing-svg)</h1> 
 
 Software Engineer | Web Developer
 ---------------------------------
